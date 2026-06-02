@@ -18,6 +18,11 @@
 
 <h3 align="left">Distinct's Statistics</h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Distinct714/Distinct714/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Distinct714/Distinct714/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Distinct714&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
