@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Distinct's Contact Info</h3>
+<h2 align="left">Distinct's Contact Info</h2><hr>
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Distinct's Stats</h3>
+<h3 align="left">Distinct's Stats</h3><hr>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Distinct714&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
