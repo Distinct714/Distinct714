@@ -18,7 +18,7 @@
 
 <h3 align="left">Distinct's Statistics</h3>
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Distinct714)](https://github.com/Distinct714/github-readme-stats-fast)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Distinct714&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
