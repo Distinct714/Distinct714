@@ -20,6 +20,6 @@
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show_icons=true&theme=dark)](https://github.com/Distinct714/github-readme-stats-fast&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distinct714&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distinct714&layout=compact&theme=dark)
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark)](https://github.com/Distinct714/github-readme-stats-fast)
