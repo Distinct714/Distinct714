@@ -22,5 +22,7 @@
 
 <img alt="Distinct's Streaks" align="left" width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
 
+<h3 align="left">Distinct's Top Languages Used</h3>
+
 <img alt="Distinct's Top Langs" align="left" width="35.9%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distinct714&layout=compact&theme=dark"/>
 
