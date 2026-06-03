@@ -19,6 +19,7 @@
 <h3 align="left">Distinct's Statistics</h3>
 
 <img alt="Distinct's Stats" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show_icons=true&theme=dark"/>
-<img alt="Distinct's Streaks" align="left" width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distinct714&layout=compact&theme=dark)
+
+<img alt="Distinct's Streaks" align="left" width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
