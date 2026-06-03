@@ -20,7 +20,7 @@
 
 <img alt="Distinct's Stats" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show_icons=true&theme=dark"/>
 
-<img alt="Distinct's Streaks" align="left" width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
+<img alt="Distinct's Streaks" align="left" width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
 
 <img alt="Distinct's Top Langs" align="left" width="35.9%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distinct714&layout=compact&theme=dark"/>
 
