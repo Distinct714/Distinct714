@@ -26,7 +26,7 @@
 
 <img alt="Distinct's Stats" align="left" width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show_icons=true&theme=dark&icon_color=D9D9D9&rank_icon=github"/>
 
-<img alt="Distinct's Streaks" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
+<img alt="Distinct's Streaks" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/><br>
 
 ###
 
