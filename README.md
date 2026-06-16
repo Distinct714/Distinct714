@@ -2,8 +2,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
     <h1>Good day👋, I'm Distinct!</h1>
+    <h3>🌐 Contact Me</h3>
     <a href="https://discord.com/824836258131869767">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
