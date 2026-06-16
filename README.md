@@ -2,13 +2,13 @@
 
 ###
 
-<h1 align="left">Distinct's Profile</h1>
 
 ###
 
 <h3 align="left">Distinct's Contact Info</h3>
 
-<div align="left">
+<div align="center">
+    <h1 align="left">Distinct's Profile</h1>
     <a href="https://discord.com/824836258131869767">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
