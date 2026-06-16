@@ -2,13 +2,8 @@
 
 ###
 
-
-###
-
-<h3 align="left">Distinct's Contact Info</h3>
-
 <div align="center">
-    <h1>Distinct's Profile</h1>
+    <h1>Good day👋, I'm Distinct!</h1>
     <a href="https://discord.com/824836258131869767">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
@@ -21,10 +16,11 @@
 </div>
 
 
-<h3 align="left">Distinct's Tools:</h3>
+<h3 align="left">🛠 Tools:</h3>
 <p align="left"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
