@@ -26,7 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/>
 </p>
 
-<h4 align="left">🐧 Linux Distros Used Previously:</h4>
+<h3 align="left">🐧 Linux Distros Used Previously:</h3>
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="linux mint" width="40" height="40"/>
