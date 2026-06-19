@@ -5,8 +5,8 @@
 
 <div align="left">
     <div align="center">
-        <h5>Good day 👋, I'm Distinct!</h5>
-        <h2>IT Support | Network Engineer | System Administrator</h2>
+        <h3>Good day 👋, I'm Distinct!</h3>
+        <h5>IT Support | Network Engineer | System Administrator</h5>
     </div><hr>
     <h3>👤 About Me</h3>
     <p>As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.</p>
