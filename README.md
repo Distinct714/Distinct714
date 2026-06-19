@@ -5,7 +5,7 @@
 
 <div align="left">
     <div align="center">
-        <h3>Good day 👋, I'm Distinct!</h3>
+        <h3 style="font-size: 2.5rem;">Good day 👋, I'm Distinct!</h3>
         <h5>IT Support | Network Engineer | System Administrator</h5>
     </div><hr>
     <h3>👤 About Me</h3>
