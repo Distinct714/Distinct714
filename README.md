@@ -2,8 +2,10 @@
 
 ###
 
+
 <div align="left">
     <h1>Good day 👋, I'm Distinct!</h1>
+    <h3 align="left">👤 About Me</h3>
     <p>As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.</p>
     <h3>🌐 Contact Me</h3>
     <a href="https://discord.com/824836258131869767">
