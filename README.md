@@ -9,6 +9,11 @@
     </div><hr>
     <h3>👤 About Me</h3>
     <p>As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.</p>
+</div>
+
+###
+
+<div align="left">
     <h3>🌐 Contact Me</h3>
     <a href="https://discord.com/824836258131869767">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -58,6 +63,4 @@
     <img alt="Distinct's Streaks" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
 </div>
 
-
 ###
-
