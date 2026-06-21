@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
-<p>For more information, visit my portfolio <a href="Distinct714.github.io">here</a>.</p>
+<p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p>
 
 ###
 
