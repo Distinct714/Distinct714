@@ -6,15 +6,15 @@
     <div align="center">
         <h3>Good day 👋, I'm Distinct!</h3>
         <h5>IT Support | Network Engineer | System Administrator</h5>
-    </div>
-    <h3 data-importer="text">👤 About Me</h3>
+    </div><hr>
+    <h3>👤 About Me</h3>
     <p>As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.</p>
 </div>
 
 ###
 
 <div align="left">
-    <h3 data-importer="text">🌐 Contact Me</h3>
+    <h3>🌐 Contact Me</h3>
     <a href="https://discord.com/824836258131869767">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Languages and Platforms</h3>
+<h3 align="left">🛠 Languages and Platforms</h3>
 <div align="left"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🐧 Linux Distros Used Previously</h3>
+<h3 align="left">🐧 Linux Distros Used Previously</h3>
 <div align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="linux mint" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
