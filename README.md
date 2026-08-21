@@ -2,12 +2,8 @@
 
 ###
 
-<table width="100%" >
-    <tr>
-        ![Background Image](https://github.com/polybar/polybar/blob/master/doc/_static/default.png?raw=true) 
-        <!--The owner of this image is from polybar github. Borrowed for display-->
-     </tr>
-</table>
+![Background Image](https://github.com/polybar/polybar/blob/master/doc/_static/default.png?raw=true) 
+<!--The owner of this image is from polybar github. Borrowed for display-->
 
 ```css
 [linux@rootuser ~]$ userfetch
