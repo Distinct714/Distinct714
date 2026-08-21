@@ -30,10 +30,9 @@
 ###
 
 <h3 align="left">🛠 Languages and Platforms</h3>
-
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="35" height="35"/>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
   </a>
 </p>
