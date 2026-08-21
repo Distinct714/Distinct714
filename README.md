@@ -5,9 +5,7 @@
 <img align="left" src="" />
 
 ```css
-> root :~ userfetch 
-```
-```css
+[rootuser ~]$ userfetch 
 ____________________________________________________________
 About Me
 
