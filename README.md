@@ -5,7 +5,7 @@
 <img align="left" src="" />
 
 ```css
-[rootuser ~]$ userfetch 
+[linux@rootuser ~]$ userfetch 
 ____________________________________________________________
 About Me
 
@@ -19,11 +19,11 @@ Position Goals: IT Service Desk | IT Support | Network Engineer | System Adminis
 As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.
 ____________________________________________________________
 
-> Committed to lifelong learning 💖
+[linux@rootuser ~]$ 
 ```
 </br>
 
-<table width="100%" >
+<!-- <table width="100%" >
     <tr>
       <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
      </tr>
@@ -48,7 +48,7 @@ ____________________________________________________________
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
-<p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p>
+<p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p> -->
 
 ###
 
