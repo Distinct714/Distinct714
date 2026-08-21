@@ -6,7 +6,7 @@
 
 ```css
 [linux@rootuser ~]$ userfetch 
-____________________________________________________________
+______________________________________________________________________________________
 About Me
 
 Name: Distinct
@@ -16,8 +16,10 @@ Place: Laguna Philippines
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
 
-As a student specializing in network system and end-user support, I have developed a comprehensive skill set in designing simple network architectures and resolving basic end-user technical issues.
-____________________________________________________________
+As a student specializing in network system and end-user support, I have developed a
+comprehensive skill set in designing simple network architectures and resolving basic
+end-user technical issues.
+______________________________________________________________________________________
 
 [linux@rootuser ~]$ 
 ```
