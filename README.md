@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="35" height="35"/>
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="20" height="20"/>
   </a>
 </p>
 
