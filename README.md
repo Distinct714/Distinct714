@@ -33,21 +33,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,discord,figma,git,github,html,php,powershell,py,tailwind,vscode,linux,windows&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
   </a>
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 ###
 
 <h3 align="left">🐧 Linux Distros Used Previously</h3>
 <div align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="linux mint" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,arch&perline=14"/>
+  </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="arch linux" width="40" height="40"/>
 </div>
 
 ###
