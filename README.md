@@ -30,6 +30,13 @@
 ###
 
 <h3 align="left">🛠 Languages and Platforms</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,css&perline=14"/>
+  </a>
+</p>
+
 <div align="left"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
