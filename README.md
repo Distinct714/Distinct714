@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="20" height="20"/>
   </a>
 </p>
 
@@ -43,8 +43,7 @@
 <h3 align="left">🐧 Linux Distros Used Previously</h3>
 <div align="left"> 
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,arch&perline=14"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
   </a>
 </div>
 
