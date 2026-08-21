@@ -2,13 +2,11 @@
 
 ###
 
-<img align="left" src="" />
-
 ```css
-[linux@rootuser ~]$ userfetch 
-______________________________________________________________________________________
-About Me
+[linux@rootuser ~]$ userfetch
 
+[    /    ] Fetching user's data...
+____________________________________________________________________________________________________________
 Name: Distinct
 Preferred Pronouns: He/Him
 College Degree: Bachelors of Science in Information Technology
@@ -16,10 +14,9 @@ Place: Laguna Philippines
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
 
-As a student specializing in network system and end-user support, I have developed a
-comprehensive skill set in designing simple network architectures and resolving basic
-end-user technical issues.
-______________________________________________________________________________________
+As a student specializing in network system and end-user support, I have developed a comprehensive skill set 
+in designing simple network architectures and resolving basic end-user technical issues.
+____________________________________________________________________________________________________________
 
 [linux@rootuser ~]$ 
 ```
