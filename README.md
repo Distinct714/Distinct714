@@ -34,15 +34,17 @@ ________________________________________________________________________________
       <td>
         <div align="left">
             <h3>🌐 Contact Me</h3>
-            <a href="https://discord.com/824836258131869767">
-                <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-            </a>
-            <a href="mailto:joshuabote2004@gmail.com">
-                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-            </a>
-            <a href="https://www.linkedin.com/in/joshua-bote-b38115364/">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-            </a>
+            <div align="center">
+                <a href="https://discord.com/824836258131869767">
+                    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+                </a>
+                <a href="mailto:joshuabote2004@gmail.com">
+                    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+                </a>
+                <a href="https://www.linkedin.com/in/joshua-bote-b38115364/">
+                    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+                </a>
+            </div>
         </div>
         <p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p><br>
       </td>
@@ -50,7 +52,7 @@ ________________________________________________________________________________
      <tr>
         <td>
             <h3 align="left">🛠 Languages and Platforms</h3>
-            <p align="left">
+            <p align="center">
                 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
                 </a><br>
                 <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
@@ -61,7 +63,7 @@ ________________________________________________________________________________
     <tr>
         <td>
             <h3 align="left">🐧 Linux Distros Used Previously</h3>
-            <div align="left"> 
+            <div align="center"> 
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
                 </a>
