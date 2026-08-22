@@ -56,10 +56,8 @@ ________________________________________________________________________________
             <div style="padding: 10px;">
                 <h3 align="left">🛠 Languages and Platforms</h3>
                 <p align="left">
-                    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,cpp,mysql,vscode,github,git,discord,powershell,bash&perline=14"/>
-                    </a><br>
-                    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
-                    <a href="https://skillicons.dev"><br>
+                    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,cpp,mysql,vscode,github,git,discord,powershell,bash&perline=14"/><br>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/><br>
                 </p>
             </div>
         </td>
