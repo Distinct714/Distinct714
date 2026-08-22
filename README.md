@@ -26,15 +26,16 @@ ________________________________________________________________________________
 
 [linux@rootuser ~]$ exit
 ```
-
 </br>
+
+###
 
 <table width="100%" >
     <tr>
       <td>
         <div align="left">
             <h3>🌐 Contact Me</h3>
-            <div align="center">
+            <div align="left">
                 <a href="https://discord.com/824836258131869767">
                     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
                 </a>
@@ -52,18 +53,19 @@ ________________________________________________________________________________
      <tr>
         <td>
             <h3 align="left">🛠 Languages and Platforms</h3>
-            <p align="center">
+            <p align="left">
                 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
                 </a><br>
                 <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
                 <a href="https://skillicons.dev"><br>
+                <img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon_new.png" width="40" height="40" alt="Wireshark Logo">
             </p>
         </td>
      </tr>
     <tr>
         <td>
             <h3 align="left">🐧 Linux Distros Used Previously</h3>
-            <div align="center"> 
+            <div align="left"> 
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
                 </a>
@@ -72,6 +74,8 @@ ________________________________________________________________________________
     </tr>
 </table>
 <br>
+
+###
 
 <h3 data-importer="text" align="left">🔥 Statistics</h3>
 <div alighn="center">
