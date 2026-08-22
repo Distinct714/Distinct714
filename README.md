@@ -10,16 +10,23 @@ ________________________________________________________________________________
 Name: Distinct
 Preferred Pronouns: He/Him
 College Degree: Bachelors of Science in Information Technology
-Place: Laguna Philippines
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
+```
+```css
+[linux@rootuser ~]$ about -me
+
+[    /    ] Fetching user's data...
+____________________________________________________________________________________________________________
+About Me
 
 As a student specializing in network system and end-user support, I have developed a comprehensive skill set 
 in designing simple network architectures and resolving basic end-user technical issues.
 ____________________________________________________________________________________________________________
 
-[linux@rootuser ~]$ 
+[linux@rootuser ~]$ exit
 ```
+
 </br>
 
 <table width="100%" >
@@ -37,18 +44,18 @@ ________________________________________________________________________________
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
             </a>
         </div>
-        <p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p>
+        <p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p><br>
       </td>
      </tr>
      <tr>
         <td>
             <h3 align="left">🛠 Languages and Platforms</h3>
             <p align="left">
-                <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="35" height="35"/>
-                <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
+                <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
+                <a href="https://skillicons.dev">,br>
+                <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
                 </a>
-            </p>
+            </p><br>
         </td>
      </tr>
     <tr>
@@ -58,7 +65,7 @@ ________________________________________________________________________________
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
                 </a>
-            </div>
+            </div><br>
         </td>
     </tr>
 </table>
