@@ -12,6 +12,7 @@ Preferred Pronouns: He/Him
 College Degree: Bachelors of Science in Information Technology
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
+____________________________________________________________________________________________________________
 ```
 ```css
 [linux@rootuser ~]$ about -me
@@ -33,7 +34,7 @@ ________________________________________________________________________________
 <table width="100%" >
     <tr>
       <td>
-        <div align="left">
+        <div align="left" style="padding: 5px;">
             <h3>🌐 Contact Me</h3>
             <div align="left">
                 <a href="https://discord.com/824836258131869767">
@@ -52,23 +53,27 @@ ________________________________________________________________________________
      </tr>
      <tr>
         <td>
-            <h3 align="left">🛠 Languages and Platforms</h3>
-            <p align="left">
-                <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
-                </a><br>
-                <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
-                <a href="https://skillicons.dev"><br>
-            </p>
+            <div style="padding: 5px;">
+                 <h3 align="left">🛠 Languages and Platforms</h3>
+                <p align="left">
+                    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,cpp,mysql,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
+                    </a><br>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
+                    <a href="https://skillicons.dev"><br>
+                </p>
+            </div>
         </td>
      </tr>
     <tr>
         <td>
-            <h3 align="left">🐧 Linux Distros Used Previously</h3>
-            <div align="left"> 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
-                </a>
-            </div><br>
+            <div style="padding: 5px;">
+                <h3 align="left">🐧 Linux Distros Used Previously</h3>
+                <div align="left"> 
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
+                    </a>
+                </div><br>
+            </div>
         </td>
     </tr>
 </table>
