@@ -55,7 +55,7 @@ ________________________________________________________________________________
         <td>
             <div style="padding: 5px;">
                  <h3 align="left">🛠 Languages and Platforms</h3>
-                <p align="left">
+                <p align="center">
                     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,cpp,mysql,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
                     </a><br>
                     <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
@@ -68,7 +68,7 @@ ________________________________________________________________________________
         <td>
             <div style="padding: 5px;">
                 <h3 align="left">🐧 Linux Distros Used Previously</h3>
-                <div align="left"> 
+                <div align="center"> 
                     <a href="https://skillicons.dev">
                         <img src="https://skillicons.dev/icons?i=mint,debian,ubuntu,kali,redhat,arch&perline=14"/>
                     </a>
