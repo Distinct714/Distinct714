@@ -70,8 +70,7 @@ ________________________________________________________________________________
                 <h3 align="left">💻 Operating System Used</h3>
                 <p align="left">
                     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14"/>
-                    </a><br>
-                    <a href="https://skillicons.dev"><br>
+                    Soon to install MacOS to become triple-boot OS.
                 </p>
             </div>
         </td>
