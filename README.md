@@ -35,11 +35,21 @@ ________________________________________________________________________________
     <tr>
       <td>
         <div align="left" style="padding: 10px;">
+            <h3 align="left">🌐 Contact Me</h3>
+            <a href="https://discord.com/824836258131869767">
+                <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+            </a>
+            <a href="mailto:joshuabote2004@gmail.com">
+                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+            </a>
+            <a href="https://www.linkedin.com/in/joshua-bote-b38115364/">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+            </a>
         </div>
         <p>For more information, visit my portfolio <a href="https://distinct714.github.io">here</a>.</p><br>
       </td>
-     </tr>
-     <tr>
+    </tr>
+    <tr>
         <td>
             <div style="padding: 10px;">
                 <h3 align="left">🛠 Languages and Tools</h3>
@@ -75,59 +85,6 @@ ________________________________________________________________________________
     </tr>
 </table>
 <br>
-
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>🌐 Contact Me</kbd>
-    <br>
-    <br>
-    <a href="https://discord.com/824836258131869767">
-        <img width="30px" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    </a>
-    <a href="mailto:joshuabote2004@gmail.com">
-        <img width="30px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/joshua-bote-b38115364/">
-        <img width="30px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-</kbd>
-<kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
-
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
 
 ###
 
