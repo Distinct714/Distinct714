@@ -52,7 +52,7 @@ ________________________________________________________________________________
             <h3 align="left">🛠 Languages and Platforms</h3>
             <p align="left">
                 <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
-                <a href="https://skillicons.dev">,br>
+                <a href="https://skillicons.dev"><br>
                 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,vscode,github,git,discord,windows,powershell,linux,bash&perline=14"/>
                 </a>
             </p><br>
