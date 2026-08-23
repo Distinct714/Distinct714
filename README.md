@@ -11,7 +11,6 @@ ________________________________________________________________________________
 Name: Distinct
 Preferred Pronouns: He/Him
 College Degree: Bachelors of Science in Information Technology
-Interest: 
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
 ____________________________________________________________________________________________________________
@@ -19,7 +18,7 @@ ________________________________________________________________________________
 ```css
 [linux@rootuser ~]$ about -me
 
-[    /    ] Fetching user's data...
+[    /    ] Fetching user's info...
 ____________________________________________________________________________________________________________
 
 About Me
@@ -28,13 +27,18 @@ As a student specializing in network system and end-user support, I have develop
 in designing simple network architectures and resolving basic end-user technical issues.
 
 Currently Exploring:
+
  • Routing and Switching - Practice command configurations in cisco packet tracer through various lab activities
    online
+
  • Network Automation - Learn how to use Python for basic automation scripts to cut down on repetitive
    manual tasks
+
  • Linux CLI Administration: Explore Linux commands for filesystem navigation, permission and user management,
    process and service control, software package management, and text-processing utilities
+
  • Active Directory: Learn user account creation, password resets, group policies, and permissions management
+
  • Hardware Diagnostics - Understand how to identify, test, and replace computer components
 ____________________________________________________________________________________________________________
 
