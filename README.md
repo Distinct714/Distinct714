@@ -7,9 +7,11 @@
 
 [    /    ] Fetching user's data...
 ____________________________________________________________________________________________________________
+
 Name: Distinct
 Preferred Pronouns: He/Him
 College Degree: Bachelors of Science in Information Technology
+Interest: 
 
 Position Goals: IT Service Desk | IT Support | Network Engineer | System Administrator
 ____________________________________________________________________________________________________________
@@ -19,10 +21,21 @@ ________________________________________________________________________________
 
 [    /    ] Fetching user's data...
 ____________________________________________________________________________________________________________
+
 About Me
 
 As a student specializing in network system and end-user support, I have developed a comprehensive skill set 
 in designing simple network architectures and resolving basic end-user technical issues.
+
+Currently Exploring:
+ • Routing and Switching - Practice command configurations in cisco packet tracer through various lab activities
+   online
+ • Network Automation - Learn how to use Python for basic automation scripts to cut down on repetitive
+   manual tasks
+ • Linux CLI Administration: Explore Linux commands for filesystem navigation, permission and user management,
+   process and service control, software package management, and text-processing utilities
+ • Active Directory: Learn user account creation, password resets, group policies, and permissions management
+ • Hardware Diagnostics - Understand how to identify, test, and replace computer components
 ____________________________________________________________________________________________________________
 
 [linux@rootuser ~]$ exit
@@ -53,10 +66,8 @@ ________________________________________________________________________________
         <td>
             <div style="padding: 10px;">
                 <h3 align="left">🛠 Languages and Tools</h3>
-                <p align="left">
                     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,py,cpp,mysql,vscode,github,git,discord,powershell,bash&perline=14"/><br>
                     <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/><br>
-                </p>
             </div>
         </td>
      </tr>
@@ -64,10 +75,8 @@ ________________________________________________________________________________
         <td>
             <div style="padding: 10px;">
                 <h3 align="left">💻 Operating System Used</h3>
-                <p align="left">
                     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14"/>
                     Soon to install MacOS to become triple-boot OS.
-                </p>
             </div>
         </td>
      </tr>
