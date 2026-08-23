@@ -28,8 +28,8 @@ in designing simple network architectures and resolving basic end-user technical
 
 Currently Exploring:
 
- • Routing and Switching - Practice command configurations in cisco packet tracer through various lab activities
-   online
+ • Routing and Switching - Practice command configurations in cisco packet tracer through various lab
+  activities online
 
  • Network Automation - Learn how to use Python for basic automation scripts to cut down on repetitive
    manual tasks
@@ -105,5 +105,3 @@ ________________________________________________________________________________
     <img alt="Distinct's Stats" align="left" width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Distinct714&show_icons=true&theme=dark&icon_color=D9D9D9&rank_icon=github"/>
     <img alt="Distinct's Streaks" align="left" width="47%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Distinct714&theme=dark"/>
 </div>
-
-###
