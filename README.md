@@ -29,7 +29,7 @@ in designing simple network architectures and resolving basic end-user technical
 Currently Exploring:
 
  • Routing and Switching - Practice command configurations in cisco packet tracer through various lab
-  activities online
+  activities
 
  • Network Automation - Learn how to use Python for basic automation scripts to cut down on repetitive
    manual tasks
