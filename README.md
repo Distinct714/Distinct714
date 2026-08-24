@@ -80,7 +80,7 @@ ________________________________________________________________________________
                 <h3 align="left">💻 Operating System Used</h3>
                     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14"/><br>
                     Soon to install MacOS inside Virtual Machine for cross-platform setup.
-            </div>
+            </div><br>
         </td>
      </tr>
     <tr>
