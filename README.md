@@ -79,7 +79,7 @@ ________________________________________________________________________________
             <div style="padding: 10px;">
                 <h3 align="left">💻 Operating System Used</h3>
                     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14"/><br>
-                    Soon to install MacOS to become triple-boot OS.
+                    Soon to install MacOS inside Virtual Machine for cross-platform setup.
             </div>
         </td>
      </tr>
